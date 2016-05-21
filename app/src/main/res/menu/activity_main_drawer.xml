@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/college_hsma"
+            android:icon="@drawable/ic_school_grey600_24dp"
+            android:title="@string/hsma" />
+        <item
+            android:id="@+id/college_mas"
+            android:icon="@drawable/ic_school_grey600_24dp"
+            android:title="@string/mas" />
+        <item
+            android:id="@+id/college_kubus"
+            android:icon="@drawable/ic_school_grey600_24dp"
+            android:title="@string/kubus" />
+        <item
+            android:id="@+id/college_mhs"
+            android:icon="@drawable/ic_school_grey600_24dp"
+            android:title="@string/mhs" />
+        <item
+            android:id="@+id/college_wglg"
+            android:icon="@drawable/ic_school_grey600_24dp"
+            android:title="@string/wglg" />
+        <item
+            android:id="@+id/college_erhf"
+            android:icon="@drawable/ic_school_grey600_24dp"
+            android:title="@string/eo" />
+        <item
+            android:id="@+id/college_mtrp"
+            android:icon="@drawable/ic_school_grey600_24dp"
+            android:title="@string/mtpl" />
+    </group>
+
+
+    <group android:checkableBehavior="none">
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings_grey600_24dp"
+                android:title="@string/settings" />
+    </group>
+
+
+</menu>

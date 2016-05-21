@@ -1,0 +1,56 @@
+<resources>
+    <string name="navigation_drawer_open">Sidebar öffnen</string>
+    <string name="navigation_drawer_close">Sidebar schließen</string>
+
+    <string name="hsma">Hochschule Mannheim</string>
+    <string name="mas">Mensa am Schloss</string>
+    <string name="kubus">Cafeteria KUBUS</string>
+    <string name="mhs">Cafeteria Musikhochschule</string>
+    <string name="wglg">Mensaria Wohlgelegen</string>
+    <string name="eo">EO (Schloss Ehrenhof)</string>
+    <string name="mtpl">Mensaria Metropol</string>
+
+    <string name="settings">Einstellungen</string>
+
+    <!-- Settings-->
+    <string name="filter_menu_types">Menü-Arten filtern</string>
+    <string name="warn_allergens">Auf Inhaltsstoff hinweisen</string>
+
+    <string name="milk">Milch</string>
+
+    <!-- menu types -->
+    <string name="beef">Rindfleisch</string>
+    <string name="pork">Schweinefleisch</string>
+    <string name="venison">Wild</string>
+    <string name="lamb">Lamm</string>
+    <string name="poultry">Geflügel</string>
+    <string name="fish">Fisch</string>
+    <string name="seafood">Meeresfrüchte</string>
+    <string name="vegetarian">Vegetarisch</string>
+    <string name="vegan">Vegan</string>
+    <string name="homemade">Hausgemacht</string>
+
+    <!-- Allergens -->
+    <string name="lupinus">Lupinen</string>
+    <string name="crayfish">Schalen/Krustentiere</string>
+    <string name="sulfite">Schwefeldioxid Sulfit</string>
+    <string name="apium">Sellerie</string>
+    <string name="wheat">Weizen</string>
+    <string name="gluten">Gluten</string>
+    <string name="nuts">Nüsse</string>
+    <string name="mustard">Senf</string>
+    <string name="soja">Soja</string>
+    <string name="sesame">Sesam</string>
+    <string name="egg">Ei</string>
+    <string name="peanuts">Erdnüsse</string>
+    <string name="lactose">Laktose</string>
+    <string name="contains">"Enthält "</string>
+    <string name="go_to_today">Springe zu heute</string>
+    <string name="allergen">Enthält Allergene</string>
+    <string name="remove_filtered">Gefilterte Menüs entfernen</string>
+    <string name="remove_filtered_summary">Gefilterte Menüs werden nicht nur ausgegraut sondern vollkommen entfernt</string>
+
+    <!-- Misc -->
+    <string name="no_data_available">Keine Daten für heute verfügbar</string>
+
+</resources>

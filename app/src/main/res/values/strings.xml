@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name" translatable="false">Mensen²</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hsma">Hochschule Mannheim</string>
+    <string name="mas">Mensa am Schloss</string>
+    <string name="kubus">Cafeteria KUBUS</string>
+    <string name="mhs">Cafeteria Musikhochschule</string>
+    <string name="wglg">Mensaria Wohlgelegen</string>
+    <string name="eo">EO (Schloss Ehrenhof)</string>
+    <string name="mtpl">Mensaria Metropol</string>
+
+    <string name="settings">Settings</string>
+
+    <!-- Settings-->
+    <string name="filter_menu_types">Filter menu types</string>
+    <string name="warn_allergens">Indicate allergens</string>
+
+    <string name="remove_filtered">Remove filtered menus</string>
+    <string name="remove_filtered_summary">Filtered menus are not greyed out but not shown at all</string>
+
+    <!-- menu types -->
+    <string name="beef">Beef</string>
+    <string name="pork">Pork</string>
+    <string name="venison">Venison</string>
+    <string name="lamb">Lamb</string>
+    <string name="poultry">Poultry</string>
+    <string name="fish">Fish</string>
+    <string name="seafood">Seafood</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="vegan">Vegan</string>
+    <string name="homemade">Homemade</string>
+
+    <!-- Allergens -->
+    <string name="lupinus">lupinus</string>
+    <string name="crayfish">Crayfish</string>
+    <string name="sulfite">Sulfur dioxide Sulfite</string>
+    <string name="apium">Apium</string>
+    <string name="wheat">Wheat</string>
+    <string name="gluten">Gluten</string>
+    <string name="nuts">Nuts</string>
+    <string name="mustard">Mustard</string>
+    <string name="soja">Soja</string>
+    <string name="sesame">Sesame</string>
+    <string name="milk">Milk</string>
+    <string name="egg">Egg</string>
+    <string name="peanuts">Peanuts</string>
+    <string name="lactose">Lactose</string>
+    <string name="contains">"Contains "</string>
+    <string name="go_to_today">Jump to today</string>
+    <string name="allergen">Contains Allergens</string>
+    <string name="no_data_available">No data available for today</string>
+
+</resources>

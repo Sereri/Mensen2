@@ -1,0 +1,114 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/filter_menu_types">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="remove_filtered"
+            android:title="@string/remove_filtered"
+            android:summary="@string/remove_filtered_summary"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/filter_menu_types">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_beef"
+            android:title="@string/beef" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_pork"
+            android:title="@string/pork" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_venison"
+            android:title="@string/venison" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_lamb"
+            android:title="@string/lamb" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_poultry"
+            android:title="@string/poultry" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_fish"
+            android:title="@string/fish" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_seafood"
+            android:title="@string/seafood" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_vegetarian"
+            android:title="@string/vegetarian" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_vegan"
+            android:title="@string/vegan" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="filter_homemade"
+            android:title="@string/homemade" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/warn_allergens">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_lupinus"
+            android:title="@string/lupinus" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_crayfish"
+            android:title="@string/crayfish" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_sulfite"
+            android:title="@string/sulfite" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_apium"
+            android:title="@string/apium" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_wheat"
+            android:title="@string/wheat" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_gluten"
+            android:title="@string/gluten" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_milk"
+            android:title="@string/milk" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_nuts"
+            android:title="@string/nuts" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_mustard"
+            android:title="@string/mustard" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_soja"
+            android:title="@string/soja" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_sesame"
+            android:title="@string/sesame" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_egg"
+            android:title="@string/egg" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_peanuts"
+            android:title="@string/peanuts" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_fisch"
+            android:title="@string/fish" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="allergen_lactose"
+            android:title="@string/lactose" />
+    </PreferenceCategory>
+</PreferenceScreen>
